@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HsExercise</string>
+    <string name="error_text">An error occured while loading Data.</string>
+    <string name="title">Photo Title</string>
+    <string name="dimension">Photo Dimension</string>
+</resources>
